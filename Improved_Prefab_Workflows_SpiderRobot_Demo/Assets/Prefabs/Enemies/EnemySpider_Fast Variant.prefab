@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Marker Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 1043367576976499811, guid: 06ec2db54c379dc4ab69662e7d28cb6f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5151248416173013969, guid: 06ec2db54c379dc4ab69662e7d28cb6f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -71,6 +76,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3254695397890646283, guid: 06ec2db54c379dc4ab69662e7d28cb6f,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.6650944
+      objectReference: {fileID: 0}
+    - target: {fileID: 3254695397890646283, guid: 06ec2db54c379dc4ab69662e7d28cb6f,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.9664834
+      objectReference: {fileID: 0}
+    - target: {fileID: 3254695397890646283, guid: 06ec2db54c379dc4ab69662e7d28cb6f,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 06ec2db54c379dc4ab69662e7d28cb6f, type: 3}

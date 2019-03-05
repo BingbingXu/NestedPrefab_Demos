@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3411689955384533916, guid: 99c2ccc2229c2bb45a7f614479bc57a9,
+        type: 3}
+      propertyPath: m_Name
+      value: EnemySpider_Fast
+      objectReference: {fileID: 0}
     - target: {fileID: 3411689955384180668, guid: 99c2ccc2229c2bb45a7f614479bc57a9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -62,14 +67,19 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3411689955384533916, guid: 99c2ccc2229c2bb45a7f614479bc57a9,
-        type: 3}
-      propertyPath: m_Name
-      value: EnemySpider_Fast
-      objectReference: {fileID: 0}
     - target: {fileID: 2109853570, guid: 99c2ccc2229c2bb45a7f614479bc57a9, type: 3}
       propertyPath: m_Speed
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706177455270890158, guid: 99c2ccc2229c2bb45a7f614479bc57a9,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706177455270890158, guid: 99c2ccc2229c2bb45a7f614479bc57a9,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.7490196
       objectReference: {fileID: 0}
     - target: {fileID: 3411689955382279500, guid: 99c2ccc2229c2bb45a7f614479bc57a9,
         type: 3}
