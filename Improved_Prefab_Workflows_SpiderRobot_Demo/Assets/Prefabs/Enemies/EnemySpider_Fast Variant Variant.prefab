@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Marker (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4430257783856075358, guid: bce0e861f61eab14abefe552f790a3df,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8393952792698916332, guid: bce0e861f61eab14abefe552f790a3df,
         type: 3}
       propertyPath: m_LocalPosition.x

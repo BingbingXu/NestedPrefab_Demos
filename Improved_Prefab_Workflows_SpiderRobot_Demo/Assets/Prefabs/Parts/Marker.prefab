@@ -40,6 +40,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8393952792698916332}
     m_Modifications:
+    - target: {fileID: 1437103859081800264, guid: fba54c2933b594c45aa2647b06521530,
+        type: 3}
+      propertyPath: m_Name
+      value: RedLight
+      objectReference: {fileID: 0}
     - target: {fileID: 1437103859081800279, guid: fba54c2933b594c45aa2647b06521530,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -95,11 +100,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1437103859081800264, guid: fba54c2933b594c45aa2647b06521530,
-        type: 3}
-      propertyPath: m_Name
-      value: RedLight
-      objectReference: {fileID: 0}
     - target: {fileID: 2417382434548474269, guid: fba54c2933b594c45aa2647b06521530,
         type: 3}
       propertyPath: m_Enabled
@@ -120,6 +120,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8393952792698916332}
     m_Modifications:
+    - target: {fileID: 2115816100, guid: 4bc7d76dd92ce2840ad8e52b33ec5eca, type: 3}
+      propertyPath: m_Name
+      value: AlarmParticles
+      objectReference: {fileID: 0}
     - target: {fileID: 2115816101, guid: 4bc7d76dd92ce2840ad8e52b33ec5eca, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -164,10 +168,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2115816100, guid: 4bc7d76dd92ce2840ad8e52b33ec5eca, type: 3}
-      propertyPath: m_Name
-      value: AlarmParticles
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4bc7d76dd92ce2840ad8e52b33ec5eca, type: 3}
 --- !u!4 &2173732889288529717 stripped
@@ -183,6 +183,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8393952792698916332}
     m_Modifications:
+    - target: {fileID: 100000, guid: bb73b2a976bfbce41973a13ba38dfe0e, type: 3}
+      propertyPath: m_Name
+      value: MazeNavMarker
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bb73b2a976bfbce41973a13ba38dfe0e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0
@@ -226,10 +230,6 @@ PrefabInstance:
     - target: {fileID: 400000, guid: bb73b2a976bfbce41973a13ba38dfe0e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: bb73b2a976bfbce41973a13ba38dfe0e, type: 3}
-      propertyPath: m_Name
-      value: MazeNavMarker
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bb73b2a976bfbce41973a13ba38dfe0e, type: 3}
